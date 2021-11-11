@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="profiles/jorge-vicuna.md">
+      <a href="profiles/ana-sosa.md">
         <img src="https://avatars.githubusercontent.com/u/2703269?v=4&s=100" width="100px;" alt=""/>
         <br />
         <sub><b>Ana Sosa</b></sub>
@@ -46,7 +46,7 @@
 <table>
   <tr>
       <td align="center">
-      <a href="">
+      <a href="profiles/jorge-vicuna.md">
         <img src="https://jorge-vicuna.gitlab.io/jorge-vicuna/static/media/avatar.272f0e79.jpg" width="100px;" alt=""/>
         <br />
         <sub><b>Jorge Vicuña Valle</b></sub>
