@@ -1,6 +1,6 @@
 # NOMBRE APELLIDO
 
-Cuentanos algo sobre ti que te gustara todos conocieramos: Quien eres? que te gusta hacer? De donde eres?
+Mi nombre es Jorge Vicuña Valle, Soy Bachiller en Ing. Electrónica y desarrollador Web de Corazón ❤️
 
 ## Perfiles sociales
 
